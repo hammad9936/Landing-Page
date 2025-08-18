@@ -62,7 +62,7 @@ body {
 .left {
     display: flex;
     flex-direction: column;
-    gap: 5px;
+    gap: 20px;
 }
 
 .right {
@@ -71,4 +71,5 @@ body {
     align-items: center;
     background-color: #b1b3b8;
     width: 500px;
+    height: 250px;
 }
