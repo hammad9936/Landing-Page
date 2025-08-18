@@ -73,7 +73,6 @@ body {
 }
 
 .two {
-    border: 2px solid black;
     padding: 15px 300px 0;
     color: black;
 }
@@ -120,4 +119,21 @@ body {
 
 } 
 
-   
+.three {
+    color: #1f2937;
+    padding: 110px 300px ;
+    background-color: #d8dadf;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300;
+}
+
+.author {
+    display: flex;
+    justify-content: end;
+    color: black;
+    font-weight: 600;
+}
