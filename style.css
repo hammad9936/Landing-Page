@@ -136,4 +136,33 @@ body {
     justify-content: end;
     color: black;
     font-weight: 600;
+    font-size: 18px;
 }
+
+.fourth {
+    color: white;
+    padding: 100px 300px ;
+}
+.container {
+    display: flex;
+    background-color: #3882f6;
+    padding: 60px 188px;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 15px;
+}
+
+.heading {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.sign {
+    font-size: 18px;
+    padding: 5px 30px;
+    color: white;
+    background-color: #3882f6;
+    border: 2px solid white;
+    border-radius: 8px;
+}
+
